@@ -1,4 +1,7 @@
+# BRAINROTWALLET
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+Mobile-first, self-custodial Bitcoin wallet built using React Native (or Flutter) with a wild, loud, and intentionally chaotic UI inspired by brutalist/meme/brainrot design aesthetics.
 
 # Getting Started
 
